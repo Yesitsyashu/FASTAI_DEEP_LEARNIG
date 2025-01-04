@@ -1,0 +1,7 @@
+# Ignore virtual environment directories
+venv/
+virtualenv/
+
+# Ignore package directories
+# (This might be slightly different depending on your system)
+lib/site-packages/
